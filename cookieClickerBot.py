@@ -126,3 +126,7 @@ WHAT ELSE?
   of farms for example and then do a tab in tkinter where you could change the values of the stuff. This should be easy but time consuming,
   since finding the static variable that writes the dynamic ones could be a pain in the ass.
 """
+
+""" Could be really helpful:
+https://medium.com/@martin.lees/image-recognition-for-automation-with-python-711ac617b4e5
+"""
