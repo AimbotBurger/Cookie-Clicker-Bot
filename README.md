@@ -17,11 +17,10 @@ I'm not quite sure, since I would like to start with other projects, but I would
 
 ## What are your plans? 🗺️
 I would like to add the following:
-* A GUI using tkinter so the bot becomes easier to use and has more funcionalities.
-* More funcionalities, maybe even including a tab on the GUI where you can change values, such as the amount of cookies or the amount of farms you own.
+* A GUI using tkinter so the bot becomes easier to use and has more funcionalities. (ON ITS WAY)
+* More funcionalities, maybe even including a tab on the GUI where you can change values, such as the amount of cookies or the amount of farms you own. (ON ITS WAY)
 
 ## Obstacles 🤹‍♂️
 * Lazyness
-* Cheat Engine would be required in order to change the values. Which is a pain in the a**.
 
 🍔 Aimbot Burger 🍔
