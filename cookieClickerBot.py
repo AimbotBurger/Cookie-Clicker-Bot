@@ -8,7 +8,7 @@ it is runned as admin as well
 """
 ########## __name__ CHECK ##########
 import sys
-__name__ ='a'
+
 if __name__ != '__main__':
     sys.exit('Do not import! CookieClickerBot.py should be your __main__, please execute it with admin privileges to prevent errors')
     
