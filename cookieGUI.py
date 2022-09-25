@@ -1,3 +1,10 @@
+########## __main__ CHECK ##########
+import sys
+
+if __name__ == '__main__':
+    sys.exit('This is not __main__, CookieClickerBot.py should be your __main__, please execute it with admin privileges to prevent errors')
+
+########## LIBRARIES ##########
 import tkinter as tk
 from tkinter import ttk
 

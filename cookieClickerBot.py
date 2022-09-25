@@ -6,7 +6,7 @@ GO WINDOW FULLSCREEN MODE BEFORE STARTING THE GAME!
 If you get an error in line 46 with win32, that means your script is not being runed as an admin, if you are using cmd, please make sure
 it is runned as admin as well
 """
-########## __name__ CHECK ##########
+########## __main__ CHECK ##########
 import sys
 
 if __name__ != '__main__':
